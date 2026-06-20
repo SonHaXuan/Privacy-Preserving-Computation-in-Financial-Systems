@@ -1,0 +1,6 @@
+# Optional homomorphic encryption microbenchmark.
+#
+# TenSEAL may not publish wheels for the latest Python version on macOS.
+# Use a Python version supported by TenSEAL, such as Python 3.11 or 3.12,
+# if this optional microbenchmark is required.
+tenseal>=0.3.15

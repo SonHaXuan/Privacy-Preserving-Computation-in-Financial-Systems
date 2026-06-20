@@ -1,0 +1,17 @@
+# Core analysis
+pandas>=2.2
+numpy>=2.0
+kagglehub>=1.0
+
+# Classical baselines
+scikit-learn>=1.5
+
+# Federated learning
+flwr>=1.14
+
+# Differential privacy
+torch>=2.4
+opacus>=1.5
+
+# Optional experiment output
+tabulate>=0.9
